@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Developing AI Applications 🤖<br> I’m looking to collaborate on: AI tools 🛠️<br> I’m looking for help with: Debugging errors 🐛<br> I’m currently learning: GenAI 📚<br> Ask me about: AI & ML 💡<br> Fun fact: Did you know? ChatGPT works by predicting the next word in a sentence! 🌟
+🚀 I’m currently working on: Developing AI Applications<br> 🌟 I’m looking to collaborate on: AI tools<br> 🤝 I’m looking for help with: Debugging errors<br> 💡 I’m currently learning: GenAI<br> ⚡ Ask me about: AI & ML<br> 🌟 Fun fact: Did you know? ChatGPT works by predicting the next word in a sentence!
 
 
 ## 🌐 Socials:
