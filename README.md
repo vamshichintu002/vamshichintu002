@@ -1,6 +1,11 @@
 # 💫 About Me:
-🚀 I’m currently working on: Developing AI Applications<br> 🌟 I’m looking to collaborate on: AI tools<br> 🤝 I’m looking for help with: Debugging errors<br> 💡 I’m currently learning: GenAI<br> ⚡ Ask me about: AI & ML<br> 🌟 Fun fact: Did you know? ChatGPT works by predicting the next word in a sentence!
-
+🚀 **Currently Working On:** Building innovative AI applications, training custom LoRAs, and creating AI-powered content.  
+🌟 **Looking to Collaborate On:** Advanced AI tools, generative AI models, and creative tech projects.  
+🤝 **Seeking Help With:** Optimizing AI workflows and debugging complex issues.  
+💡 **Currently Learning:** Flux, advanced generative AI techniques, and cutting-edge AI content creation tools.  
+🏆 **Achievement:** Winner of India’s first GenAI Buildathon, where my team and I developed a full-stack AI application recognized by industry leaders.  
+⚡ **Ask Me About:** AI, ML, LoRAs, and integrating AI into creative and operational workflows.  
+🎉 **Fun Fact:** I love creating AI-driven content using tools like HeyGen and ElevenLabs—turning ideas into impactful visuals and stories!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamshichintu02)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudulavamshi/)
